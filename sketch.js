@@ -123,7 +123,7 @@ const options = {
 }
 
 function setup(){
-  canvas = createCanvas(1940,1040); 
+  canvas = createCanvas(1940,1940); 
 
   // Create a tile map with the options declared
   myMap = mappa.tileMap(options); 
