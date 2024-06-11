@@ -90,7 +90,7 @@ gare= loadSound("ambiance/sncf.mp3")
 jardin= loadSound("ambiance/jardin.mp3")
 bouffay= loadSound("ambiance/bouffay.mp3")
 commerce= loadSound("ambiance/commerce.mp3")
-elephant= loadSound("ambiance/éléphant.mp3")
+elephant= loadSound("ambiance/elephant.mp3")
 trampoline= loadSound("ambiance/trampoline.mp3")
 hangar= loadSound("ambiance/hangar.mp3")
   
@@ -108,7 +108,7 @@ hangar= loadSound("ambiance/hangar.mp3")
   hangarImage = loadImage('picto/hangar.png');
   commerceImage = loadImage('picto/commerce.png');
   trampoImage = loadImage('picto/trampo.png');
-  elephantImage = loadImage('picto/éléphant.png');
+  elephantImage = loadImage('picto/elephant.png');
   persoImage= loadImage('picto/perso.png');
 }
 
